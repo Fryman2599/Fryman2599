@@ -1,1 +1,2 @@
-   #Hello my name is Fryman2599
+   # Hello my name is Fryman2599
+I like computer science sometimes
